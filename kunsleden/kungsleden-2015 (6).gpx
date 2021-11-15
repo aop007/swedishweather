@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="VisuGPX">
+  <metadata>
+    <name>Kungsleden 2015</name>
+    <desc>Raid SNR Laponie</desc>
+  </metadata>
+  <trk>
+    <name>j7 - mardi</name>
+    <trkseg>
+      <trkpt lat="67.8499" lon="18.31621">
+      </trkpt>
+      <trkpt lat="67.85092" lon="18.31836">
+      </trkpt>
+      <trkpt lat="67.85013" lon="18.3208">
+      </trkpt>
+      <trkpt lat="67.84869" lon="18.32593">
+      </trkpt>
+      <trkpt lat="67.8485" lon="18.33535">
+      </trkpt>
+      <trkpt lat="67.84879" lon="18.34915">
+      </trkpt>
+      <trkpt lat="67.84803" lon="18.3565">
+      </trkpt>
+      <trkpt lat="67.84597" lon="18.36882">
+      </trkpt>
+      <trkpt lat="67.84411" lon="18.37755">
+      </trkpt>
+      <trkpt lat="67.84405" lon="18.39273">
+      </trkpt>
+      <trkpt lat="67.84345" lon="18.40882">
+      </trkpt>
+      <trkpt lat="67.84247" lon="18.42052">
+      </trkpt>
+      <trkpt lat="67.84331" lon="18.42935">
+      </trkpt>
+      <trkpt lat="67.84344" lon="18.46024">
+      </trkpt>
+      <trkpt lat="67.84344" lon="18.46884">
+      </trkpt>
+      <trkpt lat="67.84328" lon="18.47779">
+      </trkpt>
+      <trkpt lat="67.84386" lon="18.48984">
+      </trkpt>
+      <trkpt lat="67.84687" lon="18.50274">
+      </trkpt>
+      <trkpt lat="67.85033" lon="18.51089">
+      </trkpt>
+      <trkpt lat="67.85288" lon="18.51809">
+      </trkpt>
+      <trkpt lat="67.85843" lon="18.53111">
+      </trkpt>
+      <trkpt lat="67.8616" lon="18.54622">
+      </trkpt>
+      <trkpt lat="67.86444" lon="18.55754">
+      </trkpt>
+      <trkpt lat="67.8653" lon="18.57381">
+      </trkpt>
+      <trkpt lat="67.86573" lon="18.5778">
+      </trkpt>
+      <trkpt lat="67.86801" lon="18.58873">
+      </trkpt>
+      <trkpt lat="67.86841" lon="18.60052">
+      </trkpt>
+      <trkpt lat="67.86749" lon="18.61238">
+      </trkpt>
+      <trkpt lat="67.86864" lon="18.62129">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx> 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="VisuGPX">
+  <metadata>
+    <name>Kungsleden 2015</name>
+    <desc>Raid SNR Laponie</desc>
+  </metadata>
+  <trk>
+    <name>j4 - samedi</name>
+    <trkseg>
+      <trkpt lat="68.0928" lon="18.30849">
+      </trkpt>
+      <trkpt lat="68.09041" lon="18.30269">
+      </trkpt>
+      <trkpt lat="68.08799" lon="18.299">
+      </trkpt>
+      <trkpt lat="68.08651" lon="18.29444">
+      </trkpt>
+      <trkpt lat="68.08568" lon="18.29201">
+      </trkpt>
+      <trkpt lat="68.08493" lon="18.28995">
+      </trkpt>
+      <trkpt lat="68.08414" lon="18.28766">
+      </trkpt>
+      <trkpt lat="68.08336" lon="18.28611">
+      </trkpt>
+      <trkpt lat="68.08146" lon="18.28305">
+      </trkpt>
+      <trkpt lat="68.08063" lon="18.28164">
+      </trkpt>
+      <trkpt lat="68.07971" lon="18.27906">
+      </trkpt>
+      <trkpt lat="68.07911" lon="18.27766">
+      </trkpt>
+      <trkpt lat="68.07856" lon="18.2765">
+      </trkpt>
+      <trkpt lat="68.07805" lon="18.27509">
+      </trkpt>
+      <trkpt lat="68.07746" lon="18.27332">
+      </trkpt>
+      <trkpt lat="68.07695" lon="18.27246">
+      </trkpt>
+      <trkpt lat="68.07609" lon="18.27171">
+      </trkpt>
+      <trkpt lat="68.07541" lon="18.27117">
+      </trkpt>
+      <trkpt lat="68.07468" lon="18.27027">
+      </trkpt>
+      <trkpt lat="68.07423" lon="18.26995">
+      </trkpt>
+      <trkpt lat="68.07346" lon="18.2687">
+      </trkpt>
+      <trkpt lat="68.07283" lon="18.26793">
+      </trkpt>
+      <trkpt lat="68.07225" lon="18.26765">
+      </trkpt>
+      <trkpt lat="68.07153" lon="18.26726">
+      </trkpt>
+      <trkpt lat="68.0705" lon="18.26642">
+      </trkpt>
+      <trkpt lat="68.06996" lon="18.26588">
+      </trkpt>
+      <trkpt lat="68.06934" lon="18.26499">
+      </trkpt>
+      <trkpt lat="68.06893" lon="18.26431">
+      </trkpt>
+      <trkpt lat="68.06827" lon="18.26354">
+      </trkpt>
+      <trkpt lat="68.0676" lon="18.2629">
+      </trkpt>
+      <trkpt lat="68.06703" lon="18.26252">
+      </trkpt>
+      <trkpt lat="68.06646" lon="18.26189">
+      </trkpt>
+      <trkpt lat="68.06547" lon="18.25955">
+      </trkpt>
+      <trkpt lat="68.06518" lon="18.25896">
+      </trkpt>
+      <trkpt lat="68.06293" lon="18.25278">
+      </trkpt>
+      <trkpt lat="68.06095" lon="18.24947">
+      </trkpt>
+      <trkpt lat="68.05843" lon="18.24795">
+      </trkpt>
+      <trkpt lat="68.05641" lon="18.24673">
+      </trkpt>
+      <trkpt lat="68.05554" lon="18.24648">
+      </trkpt>
+      <trkpt lat="68.05458" lon="18.24661">
+      </trkpt>
+      <trkpt lat="68.05409" lon="18.24679">
+      </trkpt>
+      <trkpt lat="68.05341" lon="18.24688">
+      </trkpt>
+      <trkpt lat="68.05242" lon="18.24653">
+      </trkpt>
+      <trkpt lat="68.05165" lon="18.24626">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx> 

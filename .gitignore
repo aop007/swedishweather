@@ -1,0 +1,5 @@
+.idea/
+swenv/
+*.pickle
+*.kmz
+*.kml
