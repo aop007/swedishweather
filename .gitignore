@@ -1,5 +1,7 @@
 .idea/
 swenv/
+**/__pycache__/
 *.pickle
 *.kmz
 *.kml
+out.txt
